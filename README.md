@@ -1,80 +1,80 @@
 <h1 align="center">Hi, I'm Aabhushan Gyawali 👋</h1>
-<h3 align="center">Smart Computing Student | Full-Stack & Mobile Developer</h3>
+<h3 align="center">Smart Computing Student • Full-Stack Developer • Mobile App Developer</h3>
 
-<p align="center">
-  <a href="https://github.com/AabhushanGyawali">
-    <img src="https://img.shields.io/github/followers/AabhushanGyawali?label=Followers&style=flat-square" />
-  </a>
-  <a href="https://github.com/AabhushanGyawali?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-View%20Now-blue?style=flat-square" />
-  </a>
-</p>
+<p align="center">Building real, practical software with clean architecture, strong UI/UX, and a focus on real-world problem solving.</p>
 
 ---
 
 ## 👨‍💻 About Me
-I am a **Smart Computing undergraduate at Kyungdong University Global (South Korea)**.  
-I focus on building **practical, clean, and user-friendly applications** across:
 
-- **Full-Stack Web Development**  
-- **Mobile App Development (Flutter)**  
-- **Database-Driven Systems (SQLite, MySQL, PHP)**  
-- **Application Architecture & UI/UX Design**
+I’m an undergraduate **Smart Computing student at Kyungdong University Global (South Korea)** with a strong passion for creating modern, user-friendly applications.  
+My focus is on **full-stack web development, mobile development, and systems that solve real problems**.
 
-I enjoy turning ideas into real working software and improving my skills through hands-on projects.
+I enjoy:
+- Turning ideas into **working applications**
+- Designing clean and intuitive **user interfaces**
+- Improving **app usability**—especially English accessibility in Korean web/mobile apps
+- Learning through hands-on projects and continuous improvement
+
+I aspire to become a **skilled mobile application developer**, contributing to high-quality Korean apps with better English support and international usability.
 
 ---
 
 ## 🚀 Tech Stack
 
 ### **Languages**
-- PHP • JavaScript • Dart • SQL • HTML • CSS
+- PHP • JavaScript • Dart • SQL  
+- HTML • CSS
 
 ### **Frameworks & Tools**
 - **Laravel**  
 - **Flutter / Dart**  
-- **Tailwind / Bootstrap**  
+- **Tailwind CSS / Bootstrap**  
 - **SQLite / MySQL**  
-- **Git • GitHub**
+- Git • GitHub
 
 ### **Interests**
-- Full-stack development  
-- Mobile apps  
-- System design  
-- Improving Korean web/app English accessibility  
+- Full-Stack Development  
+- Mobile Apps & Cross-Platform UI  
+- System Design & Architecture  
+- Database Optimization  
+- Clean UI/UX Design  
+- Improving Korean → English digital experiences
 
 ---
 
-## 📌 Featured Projects
+## ⭐ Featured Projects
 
 ### 🔹 **Student Management System (PHP + SQLite)**
-A full system with:
-- Authentication for students & professors  
-- Role-based dashboards  
+A full-featured academic system including:
+- Student & professor authentication  
+- Role-based dashboard  
 - Class schedule viewer  
-- File uploads with validation  
-- Image preview & CRUD operations  
+- CRUD operations with image handling  
+- File uploads, validations & metadata  
+- Profile image preview  
 - Modern Bootstrap UI  
-- No Node.js required — pure PHP stack  
+- Fully Node-free deployment
 
-👉 *Repository:* Coming soon  
+👉 *Repository coming soon*
 
 ---
 
-### 🔹 **Time Tracker Mobile App (Flutter)**
-A local-storage-based time tracking app featuring:
-- Task & project organization  
-- Time entry logging  
+### 🔹 **Time Tracker App (Flutter)**
+A mobile app for task & time management:
+- Projects, tasks & time entries  
+- Local storage  
 - Provider state management  
-- Dynamic UI navigation  
+- Dynamic screens and clean UI  
 
 ---
 
-### 🔹 **UniConnect (Full-Stack Social Platform Prototype)**
-A university-focused social media concept with:
-- Real-time updates  
-- User groups & discussions  
-- Resource sharing  
+### 🔹 **UniConnect – Campus Social Platform (Prototype)**
+A university-focused social platform for:
+- Discussion groups  
+- Announcements  
+- Learning resources  
+- Real-time interactions  
 
 ---
 
@@ -87,13 +87,12 @@ A university-focused social media concept with:
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect With Me
 
-- **LinkedIn:** *[(add your LinkedIn URL)](https://www.linkedin.com/in/aabhushan-gyawali/)*  
-- **Instagram:** [https://instagram.com/literalsaint  ](https://www.instagram.com/literalsaint_im/)
-- *(More links coming soon!)*
+- **LinkedIn:** https://www.linkedin.com/in/aabhushan-gyawali/  
+- **Instagram:** https://www.instagram.com/literalsaint_im/
 
 ---
 
-### ✨ Thanks for visiting my profile!
-Feel free to explore my projects or reach out anytime.  
+### ✨ Thank You for Visiting!
+I'm always learning, building, and improving — feel free to explore my work or reach out!
