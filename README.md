@@ -1,80 +1,84 @@
 <h1 align="center">Hi, I'm Aabhushan Gyawali 👋</h1>
-<h3 align="center">Smart Computing Student • Full-Stack Developer • Mobile App Developer</h3>
+<h3 align="center">Smart Computing Student • Full-Stack & Mobile App Developer</h3>
 
-<p align="center">Building real, practical software with clean architecture, strong UI/UX, and a focus on real-world problem solving.</p>
+<p align="center">Focused on building real, production-ready applications with clean architecture, modern UI/UX, and solid problem-solving.</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m an undergraduate **Smart Computing student at Kyungdong University Global (South Korea)** with a strong passion for creating modern, user-friendly applications.  
-My focus is on **full-stack web development, mobile development, and systems that solve real problems**.
+I am an undergraduate **Smart Computing student at Kyungdong University Global (South Korea)** with a strong interest in building practical, modern software.
 
-I enjoy:
-- Turning ideas into **working applications**
-- Designing clean and intuitive **user interfaces**
-- Improving **app usability**—especially English accessibility in Korean web/mobile apps
-- Learning through hands-on projects and continuous improvement
+My work revolves around:
+- **Full-stack web development**
+- **Mobile app development**
+- **Clean UI/UX design**
+- **Building useful systems that improve user experience**
+- Improving **English usability** in Korean web/mobile apps  
 
-I aspire to become a **skilled mobile application developer**, contributing to high-quality Korean apps with better English support and international usability.
+My goal is to become a **professional mobile and full-stack developer**, capable of creating high-quality applications at a production level.
 
 ---
 
 ## 🚀 Tech Stack
 
 ### **Languages**
-- PHP • JavaScript • Dart • SQL  
-- HTML • CSS
+- JavaScript • TypeScript • PHP • Dart  
+- SQL • HTML • CSS
 
 ### **Frameworks & Tools**
-- **Laravel**  
-- **Flutter / Dart**  
-- **Tailwind CSS / Bootstrap**  
+- **React (TypeScript)**  
+- **Node.js + Express**  
+- **Drizzle ORM**  
 - **SQLite / MySQL**  
-- Git • GitHub
+- **Tailwind CSS**  
+- **Flutter**  
+- Git • GitHub  
+- REST APIs • Authentication • Cloud Object Storage (implementation & architecture)
 
 ### **Interests**
-- Full-Stack Development  
-- Mobile Apps & Cross-Platform UI  
-- System Design & Architecture  
+- Full-Stack Engineering  
+- Mobile Development (Flutter)  
 - Database Optimization  
-- Clean UI/UX Design  
-- Improving Korean → English digital experiences
+- UI/UX & Responsive Design  
+- Scalable Architecture  
+- Multilingual support in apps (Korean ↔ English)
 
 ---
 
 ## ⭐ Featured Projects
 
-### 🔹 **Student Management System (PHP + SQLite)**
-A full-featured academic system including:
-- Student & professor authentication  
+### 🔹 **UniConnect – Campus Social Platform (Completed)**  
+A full-stack social platform built for Kyungdong University students.
+
+**Features**
+- Posting system with images  
+- Comments & interactions  
+- Group-based discussions  
+- File/resource sharing  
+- Fully responsive UI  
+- Secure authentication  
+- React + TypeScript frontend  
+- Express + Drizzle + SQLite backend  
+
+👉 **GitHub Repository:**  
+🔗 https://github.com/Ashawn0/uniconnect_demo_social_media_for_KDU
+
+---
+
+### 🔹 **Student Management System (PHP + SQLite)**  
+A complete academic management system with real-world functionality.
+
+**Features**
+- Student & professor login  
 - Role-based dashboard  
-- Class schedule viewer  
-- CRUD operations with image handling  
-- File uploads, validations & metadata  
-- Profile image preview  
+- Class schedule management  
+- CRUD with image handling  
+- File uploads & metadata  
 - Modern Bootstrap UI  
-- Fully Node-free deployment
 
-👉 *Repository coming soon*
-
----
-
-### 🔹 **Time Tracker App (Flutter)**
-A mobile app for task & time management:
-- Projects, tasks & time entries  
-- Local storage  
-- Provider state management  
-- Dynamic screens and clean UI  
-
----
-
-### 🔹 **UniConnect – Campus Social Platform (Prototype)**
-A university-focused social platform for:
-- Discussion groups  
-- Announcements  
-- Learning resources  
-- Real-time interactions  
+👉 **GitHub Repository:**  
+🔗 https://github.com/Ashawn0/student-management-system
 
 ---
 
@@ -88,11 +92,10 @@ A university-focused social platform for:
 ---
 
 ## 📫 Connect With Me
-
 - **LinkedIn:** https://www.linkedin.com/in/aabhushan-gyawali/  
 - **Instagram:** https://www.instagram.com/literalsaint_im/
 
 ---
 
 ### ✨ Thank You for Visiting!
-I'm always learning, building, and improving — feel free to explore my work or reach out!
+Always learning, building, and improving — feel free to explore my work or reach out!
