@@ -110,6 +110,20 @@ Role-based academic management system with student and professor dashboards, cla
 
 ---
 
+#### LevelUp — Gamified Habit Tracker
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+A habit tracking app built around RPG progression mechanics — XP, leveling, stat attributes, streaks, and a credit economy. Designed to make consistency feel like gameplay.
+
+🔗 [View Repository →](https://github.com/Ashawn0/LevelUp)
+🌐 [Live Demo →](https://level-up-psi-three.vercel.app)
+
+
+---
+
 ### In Progress
 
 ---
