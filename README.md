@@ -70,9 +70,20 @@ Actively applying to **research-focused master's programs in South Korea**, targ
 
 ---
 
+## Research Output
+
+📄 **PWA to Flutter Migration: A Performance and Architectural Analysis** *(Preprint)*
+Comparative study of Progressive Web Apps vs Flutter — examining runtime behavior, performance constraints, and architectural tradeoffs in mobile development.
+
+---
+
 ## Projects
 
-### UniConnect — Distributed Campus Social Platform
+### Completed
+
+---
+
+#### UniConnect — Distributed Campus Social Platform
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -85,31 +96,7 @@ Full-stack campus social platform built after observing international students a
 
 ---
 
-### System Override — On-Device Inference Mobile Game
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-Mobile game that uses ML Kit for on-device gesture inference — keeping computation local rather than offloading to the cloud. An exploration of mobile edge computing: the architectural tradeoff between device-side and server-side execution.
-
-🔗 [View Repository →](https://github.com/Ashawn0/system-override)
-
----
-
-### EcoSense — IoT Sensor-to-Cloud Pipeline *(In Progress)*
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-003B57?style=flat-square&logo=espressif&logoColor=white)
-
-Environmental monitoring system built on ESP32, transmitting real-time sensor data via MQTT to a cloud dashboard. My first deep dive into embedded hardware and the edge-to-cloud data flow — exploring how constrained devices interact with larger distributed infrastructure.
-
-🔗 [View Repository →](https://github.com/Ashawn0/ecosense)
-
----
-
-### Student Management System
+#### Student Management System
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -121,10 +108,27 @@ Role-based academic management system with student and professor dashboards, cla
 
 ---
 
-## Research Output
+### In Progress
 
-📄 **PWA to Flutter Migration: A Performance and Architectural Analysis** *(Preprint)*
-Comparative study of Progressive Web Apps vs Flutter — examining runtime behavior, performance constraints, and architectural tradeoffs in mobile development.
+---
+
+#### System Override — On-Device Inference Mobile Game
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+Mobile game that uses ML Kit for on-device gesture inference — keeping computation local rather than offloading to the cloud. An exploration of the architectural tradeoff between device-side and server-side execution in resource-constrained mobile environments.
+
+---
+
+#### EcoSense — IoT Sensor-to-Cloud Pipeline
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-003B57?style=flat-square&logo=espressif&logoColor=white)
+
+Environmental monitoring system built on ESP32, transmitting real-time sensor data via MQTT to a cloud dashboard. An exploration of how constrained embedded devices interact with larger distributed infrastructure — and where the edge-to-cloud boundary sits.
 
 ---
 
