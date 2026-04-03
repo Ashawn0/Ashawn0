@@ -72,8 +72,10 @@ Actively applying to **research-focused master's programs in South Korea**, targ
 
 ## Research Output
 
-📄 **PWA to Flutter Migration: A Performance and Architectural Analysis** *(Preprint)*
-Comparative study of Progressive Web Apps vs Flutter — examining runtime behavior, performance constraints, and architectural tradeoffs in mobile development.
+📄 **From PWA to Native: A Case Study in Migrating a React/TypeScript Application to Flutter** *(Preprint)*
+A case study examining the architectural transformations, structural complexity, and runtime tradeoffs involved in migrating a React/TypeScript PWA to Flutter. Solo-authored, Kyungdong University, 2026.
+
+🔗 [View on ResearchGate →](https://www.researchgate.net/publication/403250151)
 
 ---
 
@@ -118,7 +120,7 @@ Role-based academic management system with student and professor dashboards, cla
 ![ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-Mobile game that uses ML Kit for on-device gesture inference — keeping computation local rather than offloading to the cloud. An exploration of the architectural tradeoff between device-side and server-side execution in resource-constrained mobile environments.
+Mobile game that uses ML Kit for on-device gesture inference, keeping computation local rather than offloading to the cloud. An exploration of the architectural tradeoff between device-side and server-side execution in resource-constrained mobile environments.
 
 ---
 
@@ -128,7 +130,7 @@ Mobile game that uses ML Kit for on-device gesture inference — keeping computa
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-003B57?style=flat-square&logo=espressif&logoColor=white)
 
-Environmental monitoring system built on ESP32, transmitting real-time sensor data via MQTT to a cloud dashboard. An exploration of how constrained embedded devices interact with larger distributed infrastructure — and where the edge-to-cloud boundary sits.
+Environmental monitoring system built on ESP32, transmitting real-time sensor data via MQTT to a cloud dashboard. An exploration of how constrained embedded devices interact with larger distributed infrastructure and where the edge-to-cloud boundary sits.
 
 ---
 
