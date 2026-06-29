@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aabhushan-gyawali/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aabhushangyawali.com)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Aabhushan-Gyawali)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-8775-9738)
 [![Profile Views](https://komarev.com/ghpvc/?username=Ashawn0&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS)](https://github.com/Ashawn0)
 
 </div>
@@ -19,30 +20,51 @@ Smart Computing student graduating **August 2026**, with a consistent focus on o
 
 > *Where should computation happen — and how does that decision affect system behavior?*
 
-That question has driven me from building distributed mobile platforms, to benchmarking runtime performance across mobile architectures (published preprint), to working with on-device ML inference, and now exploring IoT and embedded systems through real sensor-to-cloud pipelines under KDU's Graduate-Undergraduate Research Program (GURP).
+That question has driven me from building distributed mobile platforms, to benchmarking edge-vs-cloud latency with real IoT hardware deployed across three live classrooms (published, KCI-indexed), to evaluating on-device ML inference as an architectural decision in mobile systems. Three peer-reviewed publications across embedded systems, fog computing, and distributed learning environments — all grounded in deployed systems and real measurements.
 
-Actively applying to **research-focused master's programs in South Korea**, targeting Mobile & Distributed Systems with growing interest in Edge Computing and IoT.
-
----
-
-## Research Output
-
-📄 **From PWA to Native: A Case Study in Migrating a React/TypeScript Application to Flutter** *(Solo-authored preprint)*
-Examines architectural transformations, structural complexity, and runtime tradeoffs involved in migrating a React/TypeScript PWA to Flutter. Benchmarked cold-start latency (Flutter: 114ms vs React PWA: 703ms) and cyclomatic complexity across two case-study apps. Kyungdong University, 2026.
-
-🔗 [View on ResearchGate →](https://www.researchgate.net/publication/403250151)
+Actively applying to **research-focused master's programs in South Korea**, targeting Edge Computing, Mobile Systems, and Distributed Systems.
 
 ---
 
-📄 **Frictionless Identity and Secure Upload Validation in University Social Platforms: Design and Evaluation of UniConnect** *(Preprint, co-authored)*
-Presents two engineering mechanisms for lightweight university platforms: a cookie-based anonymous persistent identity system (httpOnly UUID cookie, no registration required) and an upload intent validation workflow that prevents presigned URL path injection. Evaluated on a live deployment: API latencies below 150ms, 100% security test pass rate across six attack scenarios, 96.7% task completion across ten participants. Co-authored with Dr. Baseem Al-Athwari, Kyungdong University, 2026.
+## Publications
 
-🔗 [View on ResearchGate →](https://www.researchgate.net/publication/403514383)
+### Peer-Reviewed
+
+**[1]** Gyawali, A., Al-Absi, A. A., Abukhalifeh, A. N., Al-Absi, M. A. **"EcoSense: Edge vs. Cloud Computation Placement for Real-Time IAQ Monitoring in University Campus Environments: A Pipeline Latency Analysis."** *International Journal of Advanced Smart Convergence (IJASC)*, Vol. 15, No. 2, pp. 282–296, June 2026. KCI-indexed.
+🔗 [ResearchGate](https://www.researchgate.net/publication/403943544) · [doi.org/10.7236/IJASC.2026.15.2.282](https://doi.org/10.7236/IJASC.2026.15.2.282)
+
+> First-authored. 5,317 readings across 3 real classrooms. Edge median 715 µs vs. cloud 6 ms — full statistical separation (Mann-Whitney U=0, Cliff's δ=1.0). Dataset released on Zenodo.
 
 ---
 
-📄 **EcoSense: Real-Time Indoor Environmental Quality Monitoring for University Classrooms Using ESP32 and Flutter** *(Work in progress)*
-GURP research paper targeting TechRxiv / arXiv, 2026.
+**[2]** Gyawali, A., Bhandari, K. S., Al-Absi, A. A. **"On-Device LLM Reasoning for IoT Anomaly Detection in Fog Computing Environments."** *Environment-Behaviour Proceedings Journal (E-BPJ)*, 11(37), pp. 165–172, June 2026. DOAJ-indexed; WoS indexing under evaluation.
+🔗 [doi.org/10.21834/e-bpj.v11i37.7945](https://doi.org/10.21834/e-bpj.v11i37.7945) · Oral presenter, AicE-Bs2026Sokcho · Overall rank 7/36 · Best Paper rank 5/26
+
+---
+
+**[3]** Gyawali, A., Al-Absi, A. A., Al-Athwari, B. **"Physical Learning Environments and AI-Powered Personalized Learning in Higher Education: A Systematic Literature Review."** *Environment-Behaviour Proceedings Journal (E-BPJ)*, 11(37), pp. 30–46, June 2026. DOAJ-indexed; WoS indexing under evaluation.
+🔗 [doi.org/10.21834/e-bpj.v11i37.7897](https://doi.org/10.21834/e-bpj.v11i37.7897) · Oral presenter, AicE-Bs2026Sokcho · Overall rank 15/36 · Best Paper rank 9/26
+
+---
+
+### Preprints
+
+**[4]** Gyawali, A., Al-Athwari, B. **"Deploying a University Social Platform on Free-Tier Serverless Infrastructure: Performance Characterisation and Cold-Start Source Isolation."** *ResearchGate*, 2026.
+🔗 [View on ResearchGate](https://www.researchgate.net/publication/403937001)
+
+**[5]** Gyawali, A. **"From PWA to Native: A Case Study in Migrating a React/TypeScript Application to Flutter."** *ResearchGate*, 2026.
+🔗 [View on ResearchGate](https://www.researchgate.net/publication/403250151)
+
+**[6]** Gyawali, A. **"Comparative Evaluation of Lightweight Face Detection Models Under Programmatic Degradation: A Controlled Pilot Study with WIDER FACE Benchmark Validation."** *ResearchGate*, June 2026.
+🔗 [doi.org/10.13140/RG.2.2.29797.36328](https://doi.org/10.13140/RG.2.2.29797.36328)
+
+---
+
+## Awards
+
+🏆 **Best Poster Award** — Smart Computing & AI Implementation Category
+KDU Global Research & Innovation Fair, Spring 2026 · Graduate-Undergraduate Research Programme (GURP)
+*Paper selected for publication in IJASC (KCI-indexed)*
 
 ---
 
@@ -99,7 +121,21 @@ GURP research paper targeting TechRxiv / arXiv, 2026.
 
 ## Projects
 
-### Completed
+---
+
+#### EcoSense — IoT Edge-vs-Cloud Latency Benchmark *(GURP Research · Published)*
+
+![ESP32](https://img.shields.io/badge/ESP32-003B57?style=flat-square&logo=espressif&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![BLE](https://img.shields.io/badge/BLE-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+Undergraduate research project under KDU's Graduate-Undergraduate Research Programme (GURP), Spring 2026. ESP32 WROOM-32D with four sensors (DHT22, MH-Z19C, MQ-135, DFR0034) connected to a Flutter Android dashboard via BLE, with opportunistic Firebase Realtime Database sync.
+
+Research question: does local edge processing produce lower end-to-end latency than cloud offloading under real campus network conditions? **Yes — 8.4× faster**: edge median 715 µs vs. cloud 6 ms across 5,317 readings in three classrooms. Distributions fully separated (Mann-Whitney U=0, Cliff's δ=1.0). Published in IJASC (KCI-indexed), June 2026. Dataset on Zenodo. Won Best Poster Award at KDU Research & Innovation Fair.
+
+🔗 [View Repository](https://github.com/Ashawn0/kdu-campus-monitor) · 📄 [Publication \[1\]](https://www.researchgate.net/publication/403943544) · 📦 [Dataset on Zenodo](https://doi.org/10.5281/zenodo.19563976)
 
 ---
 
@@ -109,28 +145,27 @@ GURP research paper targeting TechRxiv / arXiv, 2026.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![GCS](https://img.shields.io/badge/Google_Cloud_Storage-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 Full-stack campus social platform built after observing international students at KDU struggling with Korean-only interfaces. Features campus feed, file sharing, group discussions, and a pseudo-anonymous cookie-based identity system — no registration required.
 
-Key engineering contributions: (1) httpOnly cookie-based anonymous persistent identity via UUID; (2) upload intent validation workflow preventing presigned URL path injection. Three-tier architecture: React 18 + TanStack Query frontend, Express.js backend (35 REST endpoints), PostgreSQL (Neon serverless) + Google Cloud Storage.
+Key engineering contributions: (1) httpOnly cookie-based anonymous persistent identity via UUID; (2) upload intent validation workflow preventing presigned URL path injection. Three-tier architecture: React 18 + TanStack Query frontend, Express.js backend (35 REST endpoints), Neon PostgreSQL with Drizzle ORM + Multer disk storage, deployed on Render.
 
-Evaluated on live deployment: 96.7% task completion (n=10), all endpoints under 150ms, 100% pass rate across 6 security scenarios. Co-authored IEEE-format preprint with Dr. Baseem Al-Athwari.
+Serverless cold-start characterisation on live infrastructure: container wake-up isolated at mean 52.4 s vs. database resume at 621 ms — two orders of magnitude apart. Validated under concurrent load: zero errors across 10,584 requests at 100 VUs, p95 < 800 ms. Co-authored preprint with Dr. Baseem Al-Athwari.
 
-🔗 [View Repository →](https://github.com/Ashawn0/uniconnect_demo_social_media_for_KDU)
-📄 [View Preprint →](https://www.researchgate.net/publication/403514383)
+🔗 [View Repository](https://github.com/Ashawn0/uniconnect_demo_social_media_for_KDU) · 📄 [Preprint \[4\]](https://www.researchgate.net/publication/403937001)
 
 ---
 
-#### University Course Management System
+#### System Override — Gamified Habit & Fitness Tracker
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native_(Expo)-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white)
 
-Role-based academic management system with separate professor and student dashboards, class scheduling, grading, and file management. Built after observing administrative fragmentation at KDU. CSRF protection and policy-layer access control throughout.
+Native mobile rebuild of LevelUp. Evaluates on-device versus cloud inference as a systems architecture decision: where should ML computation run in a resource-constrained mobile environment? On-device ML Kit image labelling for habit photo verification — no image leaves the device. Offline-first architecture via SyncService + NetInfo with conflict-aware background sync to Firebase. Anti-cheat telemetry engine with 7 heuristic rules (Haversine GPS, accelerometer variance, step-to-distance ratio, speed variance). Jest test suite covering XP calculation, streak risk, and anti-cheat validation.
 
-🔗 [View Repository →](https://github.com/Ashawn0/student-management-system)
+🔗 [View Repository](https://github.com/Ashawn0/AndroidApp_SystemOverride)
 
 ---
 
@@ -142,8 +177,7 @@ Role-based academic management system with separate professor and student dashbo
 
 Gamified habit tracker built around RPG progression — XP, levelling, stat attributes, streaks, and a credit economy. Hit fundamental web limitations (no camera, no background processing, no push notifications) that motivated a full native mobile rebuild as System Override.
 
-🔗 [View Repository →](https://github.com/Ashawn0/LevelUp)
-🌐 [Live Demo →](https://level-up-psi-three.vercel.app)
+🔗 [View Repository](https://github.com/Ashawn0/LevelUp) · 🌐 [Live Demo](https://level-up-psi-three.vercel.app)
 
 ---
 
@@ -155,41 +189,19 @@ Gamified habit tracker built around RPG progression — XP, levelling, stat attr
 
 Freelance project: production website for a beauty training institute in Kathmandu, Nepal. SEO-optimised (semantic HTML, core web vitals), localization-ready architecture (English/Nepali dictionary pattern), animated responsive components.
 
-🌐 [Live Site →](https://www.itcbeauticiantraining.com)
+🌐 [Live Site](https://www.itcbeauticiantraining.com)
 
 ---
 
-### In Progress
+#### University Course Management System
 
----
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-#### System Override — Gamified Habit & Fitness Tracker
+Role-based academic management system with separate professor and student dashboards, class scheduling, grading, and file management. Built after observing administrative fragmentation at KDU. CSRF protection and policy-layer access control throughout.
 
-![React Native](https://img.shields.io/badge/React_Native_(Expo)-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-Native mobile rebuild of LevelUp. Offline-first architecture via SyncService + NetInfo with conflict-aware background sync to Firebase Firestore and Realtime Database. On-device ML Kit image labelling for habit photo verification — no photo leaves the device. Node.js/Express backend handles FCM push notification dispatch and leaderboard aggregation. 77-test suite targeting Jest (unit), React Testing Library (components), and Detox (E2E).
-
-GitHub repo will be published on completion.
-
----
-
-#### EcoSense — IoT Environmental Monitoring System *(GURP Research)*
-
-![ESP32](https://img.shields.io/badge/ESP32-003B57?style=flat-square&logo=espressif&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![BLE](https://img.shields.io/badge/BLE-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-Undergraduate research project under KDU's Graduate-Undergraduate Research Program (GURP), Spring 2026. ESP32 microcontroller with five sensors (DHT22, BH1750, MQ-135, DFR0034, MH-Z19C) connected to a Flutter mobile dashboard via BLE, with opportunistic Firebase sync.
-
-Research focus: evaluating whether local edge processing produces lower end-to-end latency than cloud offloading under real campus network constraints. Paper planned for submission to TechRxiv / arXiv, 2026.
-
-🔗 [View Repository →](https://github.com/Ashawn0/kdu-campus-monitor)
+🔗 [View Repository](https://github.com/Ashawn0/student-management-system)
 
 ---
 
